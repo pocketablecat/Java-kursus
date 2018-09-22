@@ -1,0 +1,5 @@
+0 juku sisenes
+2 kati sisenes
+3 juku lahkus
+4 reset
+6 juku sisenes
